@@ -14,3 +14,10 @@ Le script fonctionne de la manière suivante :
 7. Si le lien est valide, il affiche un message dans le terminal.
 8. Si le lien est invalide, il l'enregistre dans un fichier de sortie avec son code de statut (500, 404, 000, 307, 308).
 9. À la fin de la boucle, il affiche un message pour indiquer que tous les liens ont été vérifiés avec succès.
+
+--------------
+**Comment utiliser le script**
+
+Placer le script dans le même dossier du fichier HTML à vérifier.
+
+Ouvrir un terminal et exécuter le script : **sh Bookmark_url_validation.sh**
